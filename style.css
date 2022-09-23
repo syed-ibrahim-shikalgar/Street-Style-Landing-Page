@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Orbitron:wght@400;500;600;700;800;900&family=Oswald:wght@200;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,800;0,900;1,400;1,500;1,600;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Oswald:wght@200;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,800;0,900;1,400;1,500;1,600;1,800;1,900&display=swap');
+
+body {
+    font-family: 'Orbitron';
+    overflow: hidden;
+}
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.navbar-container img {
+    margin-left: 120px;
+    
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.list-item {
+    display: block;
+    margin-right: 40px;
+    font-family: "Orbitron";
+}
+
+.list-item1 {
+    margin-right: 40px;
+    display: block;
+    font-weight: bold;
+    border-bottom: 4px solid #000000;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-button {
+    padding: 5px 40px;
+    border-radius: 10px;
+    margin-right: 120px;
+    margin-left: 10px;
+    background-color: #fff;
+    font-size: 20px;
+}
+
+.search-icon {
+    margin-top: 7px;
+}
+
+.hero-container .square img {
+    margin-left: 11%;
+    bottom: 0;
+    position: fixed;
+    z-index: -1;
+}
+
+.person {
+    margin-left: 8%;
+    position: fixed;
+    margin-top: -90px;
+}
+
+.person img {
+    max-width: 70%;
+    max-height: 60%;
+}
+
+.star img{
+    float: right;
+    margin-top: 60px;
+    margin-right: 150px;
+    position: relative;
+    height: 60px;
+}
+
+.globe img {
+    margin-left: 55%;
+    margin-top: 30px;
+    height: 70px;
+}
+
+.hero-container-right h1 {
+    font-weight: bold;
+    font-size: 55px;
+    margin-left: 45%;
+    margin-top: 50px;
+}
+
+.hero-description {
+    font-family: 'poppins';
+    margin-left: 49%;
+    margin-right: 10%;
+    font-size: 14px;
+    text-align: center;
+}
+
+.button {
+    margin-left: 60%;
+    margin-top: 90px;
+}
+
+.button-email {
+    padding: 5px 30px;
+    font-family: 'Orbitron';
+    border-radius: 10px;
+    margin-right: 10px;
+    background: transparent;
+}
+
+.button-join {
+    padding: 5px 10px;
+    font-family: 'Orbitron';
+    border-radius: 10px;
+    background: #0B0C0E;
+    color: #fff;
+}
+
+.contact-heading {
+    position: absolute;
+    margin-left: 67.5%;
+    margin-top: 105px;
+}
+
+.icons {
+    margin-left: 64.5%;
+    bottom: 0;
+    position: absolute;
+}
+
+.icons img {
+    margin-right: 15px;
+    height: 30px;
+}
+
+.star2 img {
+    height: 35px;
+    margin-left: 44%;
+    margin-top: 30px;
+    position: fixed;
+}
+
+
+
+
