@@ -26,4 +26,4 @@
 
 - How to create `buttons`
 
-[Live-link](https://landingpage-street-style.netlify.app/)
+## [**Live-link**](https://landingpage-street-style.netlify.app/) of the project
